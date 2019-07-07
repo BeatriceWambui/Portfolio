@@ -3,19 +3,20 @@
 ## Description
   A portfolio showing some of the projects i've done.
 
-# Screenshot
+## Screenshot
 <img src="https://github.com/kamauvick/image/blob/master/shot.png?raw=true" width="1000">
 
-# Setup
->  git clone https://github.com/kamauvick/Portfolio.git
->  or
->  Download a zip file of the project.
+## Setup
+``git clone https://github.com/kamauvick/Portfolio.git``
+``or``
+ ``Download a zip file of the project.``
 
->  Extract the files and open index.html in a browser
-# Known Bugs
+``Extract the files and open index.html in a browser``
 
-# Technologies used
+## Known Bugs
 
-# License
+## Technologies used
 
-# Collaborate
+## License
+
+## Collaborate
