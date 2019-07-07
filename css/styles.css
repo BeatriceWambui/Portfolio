@@ -320,8 +320,3 @@ button{
   margin-top: 40px;
   display: flex;
 }
-.forms{
-  margin-top: 40px;
-  display: flex;
-  flex-direction: column;
-}
