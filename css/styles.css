@@ -282,14 +282,14 @@ figcaption{
   height: 585px;
 }
 #contacts h1{
-  font-size: 50px;
-  margin-left: 20px;
+  font-size: 60px;
+  margin-left: 70px;
   margin-top: 30px;
   font-family: monospace;
 }
 .text h4{
   text-align: center;
-  margin-left: 50px;
+  margin-left: 60px;
   font-family: system-ui;
   font-size: 20px;
   font-weight: lighter;
@@ -304,10 +304,24 @@ figcaption{
 button{
   width: 150px;
   height: 40px;
-  border-radius: 20px;
+  font-family: monospace;
+  opacity: 0.98;
+  border-radius: 10px;
   border: none;
   font-size: 15px;
   padding-left: 20px;
   background-color: #f96d15;
   box-shadow: 2px 2px 2px #f8f8f8;
+}
+#ico2{
+  margin: 15px;
+}
+.co{
+  margin-top: 40px;
+  display: flex;
+}
+.forms{
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
 }
