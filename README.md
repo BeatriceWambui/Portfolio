@@ -7,14 +7,17 @@
 <img src="https://github.com/kamauvick/image/blob/master/shot.png?raw=true" width="1000">
 
 ## Setup
-``git clone https://github.com/kamauvick/Portfolio.git``
-``or``
- ``Download a zip file of the project.``
+> ``git clone https://github.com/kamauvick/Portfolio.git``
 
-``Extract the files and open index.html in a browser``
+``or``
+
+> ``Download a zip file of the project.``
+
+> ``Extract the files and open index.html in a browser``
 
 ## Known Bugs
   > The particle js library doesn't function
+  > The contact buttons do not function
 
 ## Technologies used
   > 1. html5
