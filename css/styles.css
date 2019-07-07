@@ -317,14 +317,8 @@ button{
 }
 .co{
   margin-top: 40px;
-  display: flex;
-}
-.links-me h1{
-  font-family: monospace;
-  font-weight: lighter;
-  font-size: 17px;
-  margin-top: 40px;
-}
+  margin-right: 50px;
+
 .links-me{
   margin-left: 40px;
 }
