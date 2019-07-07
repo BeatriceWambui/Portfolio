@@ -165,7 +165,7 @@ a:hover{
 .space{
   margin-top: 10px;
   border-radius: 4px;
-  height: 670px;
+  height: 580px;
   background-color: white;
   margin: 5px 10px 0 10px;
   color: #000000;
@@ -178,7 +178,7 @@ a:hover{
   margin: 130px 0 0 0px;
 }
 .space hr{
-  height: 340px;
+  height: 300px;
   width: 2px;
   margin:110px 20px 0 20px;
   border: none;
