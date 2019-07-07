@@ -71,7 +71,7 @@ a:hover{
   display: flex;
   justify-content: center;
   background-size: cover;
-  background-image: url('https://jmd.im/wp-content/uploads/2017/06/blacki_thumbnail-1024x538.jpg');
+  background-image: url('https://github.com/kamauvick/image/blob/master/BLACK_I_desktop-1.jpg?raw=true');
   margin-top: 0px;
   height: 590px;
 }
@@ -178,6 +178,9 @@ a:hover{
   margin:110px 20px 0 20px;
   border: none;
   background-color: #f96d15;
+  transform-origin: 0% 0%;
+  transition: 15deg;
+  margin-left: 90px;
 }
 .me-desc h1{
   margin-left: -10px;
@@ -210,8 +213,19 @@ a:hover{
 .skillset{
   display: flex;
 }
+.achieve{
+  position: relative;
+  top: -130px;
+  left: -10px;
+  padding-left: 20px;
+  display: flex;
+}
+.achieve img{
+  height: 60px;
+  width: 60px;
+}
 #ski1, #ski2, #ski3, #ski4{
-  height: 100px;
+  margin-bottom: 10px;
   width: 50px;
 }
 #ski1{
