@@ -157,34 +157,67 @@ a:hover{
   width: 50px;
   margin: 40px 10px 10px 50px;
 }
-#about, #projects, #contacts{
+.space{
   margin-top: 100px;
-  border-radius: 10px;
-  height: 570px;
+  border-radius: 4px;
+  height: 670px;
   background-color: white;
-  margin: 20px;
+  margin: 5px 10px 0 10px;
   color: #000000;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 .space img{
   height: 300px;
   width: 300px;
-  margin: 130px 0 0 80px;
+  margin: 130px 0 0 0px;
 }
 .space hr{
-  height: 250px;
-  width: 1px;
+  height: 280px;
+  width: 2px;
   margin:140px 20px 0 20px;
   border: none;
-  background-color: #000000;
+  background-color: #f96d15;
 }
-.me-desc h1{
-  margin-left: 220px;
+.me-desc h1, h3{
+  margin-left: -10px;
   margin-bottom: 80px;
+  font-family: monospace;
+  font-size: 60px;
+}
+#me-profile{
+  margin-left: 40px;
+  box-shadow: 2px 2px 2px #000000;
+  border-radius: 160px 160px 160px 160px;
 }
 .me-desc h4{
-  font-family: arial;
-  font-size: 17px;
-  margin: 0 20px 0 20px;
+  font-family: system-ui;
+  font-size: 20px;
+  font-weight: lighter;
+  margin: 0 20px 0 0;
+}
+.skillset{
+  display: flex;
+}
+#ski{
+  height: 100px;
+  width: 50px;
+}
+.squ{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+#squtxt{
+  margin-left: 200px;
+}
+#fig img{
+  border-radius: 22% 24% 22% 23% / 49% 47% 48% 51% ;
+  height: 200px;
+  width: 310px;
+}
+figcaption{
+  text-align: center;
+  font-size: 23px;
+  font-family: serif;
 }
