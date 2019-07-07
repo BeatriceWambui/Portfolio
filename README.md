@@ -17,6 +17,7 @@
 
 ## Known Bugs
   > The particle js library doesn't function
+  
   > The contact buttons do not function
 
 ## Technologies used
