@@ -320,6 +320,11 @@ button{
   margin-top: 40px;
   display: flex;
 }
+.co h1{
+  font-family: monospace;
+  font-weight: lighter;
+  font-size: 17px;
+}
 .links-me{
   margin-left: 40px;
 }
