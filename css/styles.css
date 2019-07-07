@@ -173,17 +173,25 @@ a:hover{
   margin: 130px 0 0 0px;
 }
 .space hr{
-  height: 280px;
+  height: 340px;
   width: 2px;
-  margin:140px 20px 0 20px;
+  margin:110px 20px 0 20px;
   border: none;
   background-color: #f96d15;
 }
-.me-desc h1, h3{
+.me-desc h1{
   margin-left: -10px;
   margin-bottom: 80px;
   font-family: monospace;
   font-size: 60px;
+}
+.me-desc{
+  font-family: monospace;
+  font-size: 30px;
+}
+.me-desc h2{
+  font-size: 25px;
+  font-family: monospace;
 }
 #me-profile{
   margin-left: 40px;
@@ -196,12 +204,27 @@ a:hover{
   font-weight: lighter;
   margin: 0 20px 0 0;
 }
+#me{
+  color: #bb1542;
+}
 .skillset{
   display: flex;
 }
-#ski{
+#ski1, #ski2, #ski3, #ski4{
   height: 100px;
   width: 50px;
+}
+#ski1{
+  color: #E13D00;
+}
+#ski2{
+  color: #2C4FB7;
+}
+#ski3{
+  color: #FF7F00;
+}
+#ski4{
+  color: #000000;
 }
 .squ{
   width: 100%;
@@ -212,9 +235,9 @@ a:hover{
   margin-left: 200px;
 }
 #fig img{
-  border-radius: 22% 24% 22% 23% / 49% 47% 48% 51% ;
+  border-radius: 5px;
   height: 200px;
-  width: 310px;
+  width: 330px;
 }
 figcaption{
   text-align: center;
