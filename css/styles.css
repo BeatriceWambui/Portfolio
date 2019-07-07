@@ -282,7 +282,7 @@ figcaption{
 }
 #contacts h1{
   font-size: 60px;
-  margin-left: 70px;
+  margin-left: 50px;
   margin-top: 30px;
   font-family: monospace;
 }
@@ -319,10 +319,11 @@ button{
   margin-top: 40px;
   display: flex;
 }
-.co h1{
+.links-me h1{
   font-family: monospace;
   font-weight: lighter;
   font-size: 17px;
+  margin-top: 40px;
 }
 .links-me{
   margin-left: 40px;
