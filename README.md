@@ -2,6 +2,7 @@
 
 ## Description.
   This is a portfolio showing some information about me and some of the projects i've done.
+  [Check it out.](https://kamauvick.github.io/Portfolio/)
 
 ## Screenshot.
 <img src="https://github.com/kamauvick/image/blob/master/shot.png?raw=true" width="1000">
